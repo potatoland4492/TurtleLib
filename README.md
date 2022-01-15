@@ -16,7 +16,7 @@ This script sets up a simple race layout for two players, one green and the othe
 
 ### Cone
 
-`cone` creates a nice cone shape.
+`cone` creates a nice cone shape using circles. When you import the script, you will be prompted for a size. The recommended range is from 100-250. However, bigger cones will take longer to make. Do not go below 50, as this will result in a very small cone that is hard to see.
 
 [cone.py](./scripts/cone.py)
 
