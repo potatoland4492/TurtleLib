@@ -1,5 +1,7 @@
 # TurtleLib
 
+![v1.0.0](https://img.shields.io/badge/version-1.0.0-informational) ![py-version](https://img.shields.io/pypi/pyversions/PythonTurtle.svg) ![license-gnugpl](https://img.shields.io/badge/license-GNU%20General%20Public%20License-green) ![maintainer-akhilpillai](https://img.shields.io/badge/maintainer-Akhil%20Pillai-lightgrey)
+
 TurtleLib is a library of scripts that interact with the PythonTurtle module to create games, drawings, and more!
 
 ## Using the Scripts
@@ -24,9 +26,7 @@ This script sets up a simple race layout for two players, one green and the othe
 
 ## All Downloads
 
-[race.py](./scripts/race.py)
-
-[cone.py](./scripts/cone.py)
+[TurtleLib_v1.0.0.zip](./downloads/TurtleLib_v1.0.0.zip)
 
 ## Installing PythonTurtle
 
