@@ -11,18 +11,22 @@ Copy or download a script to your current working directory. Start python3 and r
 ### Race
 
 This script sets up a simple race layout for two players, one green and the other blue. When the game is set up, the script will prompt you to start the game. Press `Enter` on your keyboard to begin.
+
 [race.py](./scripts/race.py)
 
 ### Cone
 
 `cone` creates a nice cone shape.
+
 [cone.py](./scripts/cone.py)
 
 ---
 
-## Complete Download
+## All Downloads
 
-[Script Folder](./scripts)
+[race.py](./scripts/race.py)
+
+[cone.py](./scripts/cone.py)
 
 ## Installing PythonTurtle
 
