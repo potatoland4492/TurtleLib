@@ -1,6 +1,6 @@
 # TurtleLib
 
-![v1.0.0](https://img.shields.io/badge/version-1.0.0-informational) ![py-version](https://img.shields.io/pypi/pyversions/PythonTurtle.svg) ![license-gnugpl](https://img.shields.io/badge/license-GNU%20General%20Public%20License-green) ![maintainer-akhilpillai](https://img.shields.io/badge/maintainer-Akhil%20Pillai-lightgrey)
+![v1.0.0](https://img.shields.io/badge/version-1.0.0-informational) ![py-version](https://img.shields.io/pypi/pyversions/PythonTurtle.svg) ![license-gnugpl](https://img.shields.io/badge/license-GNU%20General%20Public%20License-green) ![checks](https://img.shields.io/badge/checks-passing-success) ![tests](https://img.shields.io/badge/tests-passing-success) ![maintainer-akhilpillai](https://img.shields.io/badge/maintainer-Akhil%20Pillai-lightgrey)
 
 TurtleLib is a library of scripts that interact with the PythonTurtle module to create games, drawings, and more!
 
